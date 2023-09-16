@@ -1,13 +1,8 @@
 \# K-Deep-Simplex-KDS-algorithm
 ===============================
 
-This is an algorithm for dictionary learning. Formally, given a set of n data
-points that lie in a d-dimensional space, the optimization model of KDS learns
-sparse representation coefficients and m dictionary atoms such that each data
-point is represented a convex combination of local atoms. The optimization over
-the atoms and sparse coefficients can be solved using alternating minimization.
-The KDS algorithm employs algorithm unrolling to design a structured neural
-network that solves the problem. The Python code is written by Pranay Tankala.
+This is an algorithm for dictionary learning. Formally, given a set of n data points that lie in a d-dimensional space, KDS learns sparse representation coefficients 
+and m dictionary atoms such that each data point is represented a convex combination of local atoms. The optimization over the atoms and sparse coefficients can be solved using alternating minimization. KDS employs algorithm unrolling to design a structured neural network that solves the problem. 
 
 \# Baseline algorithms
 ======================
