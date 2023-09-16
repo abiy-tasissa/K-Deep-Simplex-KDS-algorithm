@@ -80,13 +80,11 @@ You can download all the necessary additional data from [here](https://www.dropb
 [here](https://thoth.inrialpes.fr/people/mairal/spams/). 
 
 ## Citation
-------------
 
 If you use our code or find our paper useful and relevant, we would appreciate if you cite our paper. 
 >Tankala, Pranay, et al. "K-deep simplex: Deep manifold learning via local dictionaries.
 arXiv preprint arXiv:2012.02134 (2020).
 
 ## Feedback
---------
 
 If you have any questions about the code or feedback, email Abiy Tasissa.
