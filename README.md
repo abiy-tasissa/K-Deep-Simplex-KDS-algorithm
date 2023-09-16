@@ -20,7 +20,7 @@ The KDS folder contains:
 * a PyTorch implementation of KDS in `src/model.py`
 * a script `src/clustering_experiment.py` that uses KDS to cluster various real-world data sets
 * a script `src/synthetic_experiment.py` that evaluates the performance of KDS as a function of dictionary size and cluster separation
-* a data folder `data` that contains the Salinas-A hyperspectral dataset and the Yale B dataset.
+* a data folder `data` that contains the Salinas-A hyperspectral dataset and the Yale B dataset. Since the data folder is relatively large, you can download it from [here](https://www.dropbox.com/scl/fo/im6dmydz5fqgykoe1u6es/h?rlkey=4jlpzn965rt7yjefznrjqvci1&dl=0) per your needs. 
   - The Salinas-A dataset is a single aerial-view hyperpspectral image
     of the Salinas valley in California with 224 bands and 6 regions corresponding to different crops. The Salinas-A dataset is taken from
     [here](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Salinas-A_scene).
@@ -28,7 +28,7 @@ The KDS folder contains:
    dataset is based on the reference below.
      >Lee, Kuang-Chih, Jeffrey Ho, and David J. Kriegman. "Acquiring linear subspaces for face recognition under variable lighting." IEEE Transactions on pattern 
      analysis and machine intelligence 27.5 (2005): 684-698.
-Since the data folder is relatively large, you can download it from [here](https://www.dropbox.com/scl/fo/im6dmydz5fqgykoe1u6es/h?rlkey=4jlpzn965rt7yjefznrjqvci1&dl=0) per your needs. 
+
 
 ### Dependencies
 * scipy: 1.11.2
