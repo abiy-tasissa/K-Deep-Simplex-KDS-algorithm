@@ -1,10 +1,8 @@
 # K-Deep-Simplex-KDS-algorithm
-===============================
 
 This is an algorithm for dictionary learning. Formally, given a set of n data points that lie in a d-dimensional space, KDS learns sparse representation coefficients and m dictionary atoms such that each data point is represented a convex combination of local atoms. The optimization over the atoms and sparse coefficients can be solved using alternating minimization. KDS employs algorithm unrolling to design a structured neural network that solves the problem. 
 
 # Baseline algorithms
-======================
 
 In our manuscript, we also compare our paper with other baseline algorithms. The baseline algorithms are noted below.
 
@@ -17,8 +15,7 @@ In our manuscript, we also compare our paper with other baseline algorithms. The
 
 All the baseline algorithms are in MATLAB. We used implementation of the original authors. 
 
-Python files description
-------------------------
+## Python files description
 The KDS folder contains:
 * a PyTorch implementation of KDS in `src/model.py`
 * a script `src/clustering_experiment.py` that uses KDS to cluster various real-world data sets
@@ -59,8 +56,7 @@ Other provided parameter settings include `salinas_default`, `yale2_default`, `y
 
 `python synthetic_experiment.py -F ../results/synthetic`
 
-MATLAB files description
-------------------------
+## MATLAB files description
 
 `demo_smce_experiments.m`: This is a script which loads different kinds of datasets and calls the SMCE algorithm. 
 
@@ -83,14 +79,14 @@ MATLAB files description
 You can download all the necessary additional data from [here](https://www.dropbox.com/scl/fo/im6dmydz5fqgykoe1u6es/h?rlkey=4jlpzn965rt7yjefznrjqvci1&dl=0). To set up the SPAMS package, needed to run demo_esc, refer to the instructions
 [here](https://thoth.inrialpes.fr/people/mairal/spams/). 
 
-Citation
+## Citation
 ------------
 
 If you use our code or find our paper useful and relevant, we would appreciate if you cite our paper. 
 >Tankala, Pranay, et al. "K-deep simplex: Deep manifold learning via local dictionaries.
 arXiv preprint arXiv:2012.02134 (2020).
 
-Feedback
+## Feedback
 --------
 
 If you have any questions about the code or feedback, email Abiy Tasissa.
