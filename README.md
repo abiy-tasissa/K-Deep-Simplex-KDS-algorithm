@@ -81,7 +81,7 @@ MATLAB files description
 `load_salinas.m` and `load_yale.m`: Scripts that load the Salinas-A and Yale B datasets. 
 
 You can download all the necessary additional data from [here](https://www.dropbox.com/scl/fo/im6dmydz5fqgykoe1u6es/h?rlkey=4jlpzn965rt7yjefznrjqvci1&dl=0). To set up the SPAMS package, needed to run demo_esc, refer to the instructions
-[here] (https://thoth.inrialpes.fr/people/mairal/spams/). 
+[here](https://thoth.inrialpes.fr/people/mairal/spams/). 
 
 Citation
 ------------
