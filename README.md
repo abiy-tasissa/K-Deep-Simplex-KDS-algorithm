@@ -83,12 +83,6 @@ MATLAB files description
 You can download all the necessary additional data from [here](https://www.dropbox.com/scl/fo/im6dmydz5fqgykoe1u6es/h?rlkey=4jlpzn965rt7yjefznrjqvci1&dl=0). To set up the SPAMS package, needed to run demo_esc, refer to the instructions
 [here] (https://thoth.inrialpes.fr/people/mairal/spams/). 
 
-
-
-`ReadOFF.m, ViewMesh.m, ViewPC.m`: These scripts are used to read different
-types of the data file and generate points, mesh. They are also used in viewing
-the outputs of the main algorithms.
-
 Citation
 ------------
 
