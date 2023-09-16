@@ -76,9 +76,9 @@ MATLAB files description
                       Example: `mnist_accuracy_3_4.mat` loads the sparse coefficient matrix with pre-processing set to (3) and lambda set to 400. 
 `KDS_Complexity_Plots.m` and `SMCE_Complexity_Plots.m`: These scripts will reproduce the complexity plots in the supplementary. 
 
-'SpectralClustering_fast.m': A faster implementation of spectral clustering. 
+`SpectralClustering_fast.m`: A faster implementation of spectral clustering. 
 
-'load_salinas.m' and 'load_yale.m': Scripts that load the Salinas-A and Yale B datasets. 
+`load_salinas.m` and `load_yale.m`: Scripts that load the Salinas-A and Yale B datasets. 
 
 You can download all the necessary additional data from [here](https://www.dropbox.com/scl/fo/im6dmydz5fqgykoe1u6es/h?rlkey=4jlpzn965rt7yjefznrjqvci1&dl=0). To set up the SPAMS package, needed to run demo_esc, refer to the instructions
 [here] (https://thoth.inrialpes.fr/people/mairal/spams/). 
@@ -93,7 +93,7 @@ Citation
 ------------
 
 If you use our code or find our paper useful and relevant, we would appreciate if you cite our paper. 
-Tankala, Pranay, et al. "K-deep simplex: Deep manifold learning via local dictionaries.
+>Tankala, Pranay, et al. "K-deep simplex: Deep manifold learning via local dictionaries.
 arXiv preprint arXiv:2012.02134 (2020).
 
 Feedback
