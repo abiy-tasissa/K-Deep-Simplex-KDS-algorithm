@@ -28,6 +28,7 @@ The KDS folder contains:
    dataset is based on the reference below.
      >Lee, Kuang-Chih, Jeffrey Ho, and David J. Kriegman. "Acquiring linear subspaces for face recognition under variable lighting." IEEE Transactions on pattern 
      analysis and machine intelligence 27.5 (2005): 684-698.
+  Since the data folder is relatively large, you can download it from [here](https://www.dropbox.com/scl/fo/im6dmydz5fqgykoe1u6es/h?rlkey=4jlpzn965rt7yjefznrjqvci1&dl=0) per your needs. 
 
 ### Dependencies
 * scipy: 1.11.2
