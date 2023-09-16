@@ -1,9 +1,9 @@
-\# K-Deep-Simplex-KDS-algorithm
+# K-Deep-Simplex-KDS-algorithm
 ===============================
 
 This is an algorithm for dictionary learning. Formally, given a set of n data points that lie in a d-dimensional space, KDS learns sparse representation coefficients and m dictionary atoms such that each data point is represented a convex combination of local atoms. The optimization over the atoms and sparse coefficients can be solved using alternating minimization. KDS employs algorithm unrolling to design a structured neural network that solves the problem. 
 
-\# Baseline algorithms
+# Baseline algorithms
 ======================
 
 In our manuscript, we also compare our paper with other baseline algorithms. The baseline algorithms are noted below.
