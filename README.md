@@ -51,7 +51,7 @@ To run either experiment, navigate to the `src` directory.
 
 `python clustering_experiment.py -F ../results/moons with moons_default`
 
-Other provided parameter settings include `salinas_default`, `yale2_default`, `yale3_default`, and `mnist_default`. This will run the KDS code with optimal deafult parameters reported in our manuscript.
+Other provided parameter settings include `salinas_default`, `yale2_default`, `yale3_default`, and `mnist_default`. This will run the KDS code with optimal default parameters reported in our manuscript.
 
 **Example usage (synthetic experiment):**
 
