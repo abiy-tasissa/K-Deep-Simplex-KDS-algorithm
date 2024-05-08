@@ -83,8 +83,9 @@ You can download all the necessary additional data from [here](https://www.dropb
 ## Citation
 
 If you use our code or find our paper useful and relevant, we would appreciate if you cite our paper. 
->Tankala, Pranay, et al. "K-deep simplex: Deep manifold learning via local dictionaries.
-arXiv preprint arXiv:2012.02134 (2020).
+> Tasissa, Abiy, et al. "K-Deep Simplex: Manifold Learning via Local Dictionaries." IEEE Transactions on Signal Processing (2023).
+
+> arXiv paper can be found here: https://arxiv.org/abs/2012.02134 
 
 ## Feedback
 
